@@ -1,0 +1,26 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://tripreel.app/sitemap.xml
+
+# Disallow search engine bots from indexing certain files
+User-agent: *
+Disallow: /dist/
+Disallow: /node_modules/
+Disallow: /*.json$
+Disallow: /*.xml$
+
+# Allow Google Image Bot
+User-agent: Googlebot-Image
+Allow: /
+
+# Allow all images to be indexed
+User-agent: *
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.webp$
+Allow: /*.svg$

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://tripreel.app/</loc>
+    <lastmod>2025-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://tripreel.app/android-chrome-512x512.png</image:loc>
+      <image:title>TripReel - Automatic Travel Video Maker</image:title>
+      <image:caption>Turn your camera roll into beautiful travel videos with globe animations</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripreel.app/image1.png</image:loc>
+      <image:title>TripReel Screenshot - Automatic Travel Videos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripreel.app/image2.png</image:loc>
+      <image:title>TripReel Screenshot - Uses Photo Locations</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripreel.app/image3.png</image:loc>
+      <image:title>TripReel Screenshot - Automatic Trip Detection</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripreel.app/image4.png</image:loc>
+      <image:title>TripReel Screenshot - Beautiful Earth Videos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://tripreel.app/image5.png</image:loc>
+      <image:title>TripReel Screenshot - Custom Styles</image:title>
+    </image:image>
+  </url>
+</urlset>
