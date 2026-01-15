@@ -1,7 +1,7 @@
 {
   "name": "TripReel",
   "short_name": "TripReel",
-  "description": "Turn your camera roll into shareable travel videos automatically with beautiful globe animations. Privacy-first, works offline.",
+  "description": "Free app: Turn your camera roll into shareable travel videos automatically with beautiful globe animations. Privacy-first, works offline.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

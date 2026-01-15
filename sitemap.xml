@@ -1,35 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- English version (default) -->
   <url>
     <loc>https://tripreel.app/</loc>
-    <lastmod>2025-12-30</lastmod>
+    <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/" />
     <image:image>
       <image:loc>https://tripreel.app/android-chrome-512x512.png</image:loc>
-      <image:title>TripReel - Automatic Travel Video Maker</image:title>
+      <image:title>TripReel - Free Automatic Travel Video Maker</image:title>
       <image:caption>Turn your camera roll into beautiful travel videos with globe animations</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://tripreel.app/image1.png</image:loc>
-      <image:title>TripReel Screenshot - Automatic Travel Videos</image:title>
+      <image:title>TripReel Screenshot - Free Automatic Travel Videos</image:title>
     </image:image>
     <image:image>
       <image:loc>https://tripreel.app/image2.png</image:loc>
-      <image:title>TripReel Screenshot - Uses Photo Locations</image:title>
+      <image:title>TripReel Screenshot - Free App Uses Photo Locations</image:title>
     </image:image>
     <image:image>
       <image:loc>https://tripreel.app/image3.png</image:loc>
-      <image:title>TripReel Screenshot - Automatic Trip Detection</image:title>
+      <image:title>TripReel Screenshot - Free Automatic Trip Detection</image:title>
     </image:image>
     <image:image>
       <image:loc>https://tripreel.app/image4.png</image:loc>
-      <image:title>TripReel Screenshot - Beautiful Earth Videos</image:title>
+      <image:title>TripReel Screenshot - Free Beautiful Earth Videos</image:title>
     </image:image>
     <image:image>
       <image:loc>https://tripreel.app/image5.png</image:loc>
-      <image:title>TripReel Screenshot - Custom Styles</image:title>
+      <image:title>TripReel Screenshot - Free Custom Styles</image:title>
     </image:image>
+  </url>
+
+  <!-- Romanian version -->
+  <url>
+    <loc>https://tripreel.app/ro</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/" />
+    <image:image>
+      <image:loc>https://tripreel.app/android-chrome-512x512.png</image:loc>
+      <image:title>TripReel - Creator Automat Video de Călătorie Gratuit</image:title>
+      <image:caption>Transformă galeria foto în videoclipuri frumoase cu animații de glob</image:caption>
+    </image:image>
+  </url>
+
+  <!-- English contact page -->
+  <url>
+    <loc>https://tripreel.app/contact</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/contact" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/contact" />
+  </url>
+
+  <!-- Romanian contact page -->
+  <url>
+    <loc>https://tripreel.app/ro/contact</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/contact" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/contact" />
+  </url>
+
+  <!-- English privacy page -->
+  <url>
+    <loc>https://tripreel.app/privacy</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/privacy" />
+  </url>
+
+  <!-- Romanian privacy page -->
+  <url>
+    <loc>https://tripreel.app/ro/privacy</loc>
+    <lastmod>2026-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/privacy" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/privacy" />
   </url>
 </urlset>
