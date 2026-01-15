@@ -2,99 +2,152 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
   <!-- English version (default) -->
   <url>
     <loc>https://tripreel.app/</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tripreel.app/ar" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://tripreel.app/ca" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://tripreel.app/cs" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://tripreel.app/da" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://tripreel.app/de" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://tripreel.app/el" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://tripreel.app/es" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://tripreel.app/fi" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://tripreel.app/fr" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://tripreel.app/he" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://tripreel.app/hi" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://tripreel.app/hr" />
+    <xhtml:link rel="alternate" hreflang="hu" href="https://tripreel.app/hu" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://tripreel.app/id" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://tripreel.app/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://tripreel.app/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://tripreel.app/ko" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://tripreel.app/ms" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://tripreel.app/nl" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://tripreel.app/no" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://tripreel.app/pl" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://tripreel.app/pt" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tripreel.app/ru" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://tripreel.app/sk" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://tripreel.app/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://tripreel.app/th" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://tripreel.app/tr" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://tripreel.app/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://tripreel.app/vi" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://tripreel.app/zh" />
     <image:image>
       <image:loc>https://tripreel.app/android-chrome-512x512.png</image:loc>
       <image:title>TripReel - Free Automatic Travel Video Maker</image:title>
       <image:caption>Turn your camera roll into beautiful travel videos with globe animations</image:caption>
     </image:image>
-    <image:image>
-      <image:loc>https://tripreel.app/image1.png</image:loc>
-      <image:title>TripReel Screenshot - Free Automatic Travel Videos</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://tripreel.app/image2.png</image:loc>
-      <image:title>TripReel Screenshot - Free App Uses Photo Locations</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://tripreel.app/image3.png</image:loc>
-      <image:title>TripReel Screenshot - Free Automatic Trip Detection</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://tripreel.app/image4.png</image:loc>
-      <image:title>TripReel Screenshot - Free Beautiful Earth Videos</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://tripreel.app/image5.png</image:loc>
-      <image:title>TripReel Screenshot - Free Custom Styles</image:title>
-    </image:image>
   </url>
 
-  <!-- Romanian version -->
-  <url>
-    <loc>https://tripreel.app/ro</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/" />
-    <image:image>
-      <image:loc>https://tripreel.app/android-chrome-512x512.png</image:loc>
-      <image:title>TripReel - Creator Automat Video de Călătorie Gratuit</image:title>
-      <image:caption>Transformă galeria foto în videoclipuri frumoase cu animații de glob</image:caption>
-    </image:image>
-  </url>
+  <!-- All language homepages -->
+  <url><loc>https://tripreel.app/ar</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/ca</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/cs</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/da</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/de</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/el</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/es</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/fi</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/fr</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/he</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/hi</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/hr</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/hu</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/id</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/it</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/ja</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/ko</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/ms</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/nl</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/no</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/pl</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/pt</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/ro</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/ru</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/sk</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/sv</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/th</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/tr</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/uk</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/vi</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://tripreel.app/zh</loc><lastmod>2026-01-15</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
-  <!-- English contact page -->
-  <url>
-    <loc>https://tripreel.app/contact</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/contact" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/contact" />
-  </url>
+  <!-- Contact pages for all languages -->
+  <url><loc>https://tripreel.app/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ar/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ca/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/cs/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/da/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/de/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/el/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/es/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/fi/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/fr/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/he/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/hi/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/hr/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/hu/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/id/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/it/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ja/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ko/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ms/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/nl/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/no/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/pl/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/pt/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ro/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/ru/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/sk/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/sv/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/th/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/tr/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/uk/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/vi/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://tripreel.app/zh/contact</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
-  <!-- Romanian contact page -->
-  <url>
-    <loc>https://tripreel.app/ro/contact</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/contact" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/contact" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/contact" />
-  </url>
+  <!-- Privacy pages for all languages -->
+  <url><loc>https://tripreel.app/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ar/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ca/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/cs/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/da/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/de/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/el/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/es/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/fi/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/fr/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/he/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/hi/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/hr/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/hu/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/id/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/it/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ja/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ko/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ms/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/nl/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/no/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/pl/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/pt/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ro/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/ru/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/sk/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/sv/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/th/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/tr/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/uk/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/vi/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://tripreel.app/zh/privacy</loc><lastmod>2026-01-15</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
-  <!-- English privacy page -->
-  <url>
-    <loc>https://tripreel.app/privacy</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/privacy" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/privacy" />
-  </url>
-
-  <!-- Romanian privacy page -->
-  <url>
-    <loc>https://tripreel.app/ro/privacy</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://tripreel.app/privacy" />
-    <xhtml:link rel="alternate" hreflang="ro" href="https://tripreel.app/ro/privacy" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://tripreel.app/privacy" />
-  </url>
 </urlset>
