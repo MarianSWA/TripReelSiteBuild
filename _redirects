@@ -1,3 +1,0 @@
-# Netlify/Cloudflare Pages redirect configuration
-# This ensures all routes are handled by the SPA
-/*    /index.html   200
