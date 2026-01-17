@@ -1,0 +1,85 @@
+{
+  "generated": "2026-01-17T17:02:15.321Z",
+  "images": {
+    "earth_transparent.webp": {
+      "original": "earth_transparent.webp",
+      "responsive": [
+        {
+          "path": "/responsive/earth_transparent-sm.webp",
+          "width": 228,
+          "descriptor": "228w"
+        },
+        {
+          "path": "/responsive/earth_transparent-sm@2x.webp",
+          "width": 456,
+          "descriptor": "456w"
+        },
+        {
+          "path": "/responsive/earth_transparent-md.webp",
+          "width": 400,
+          "descriptor": "400w"
+        },
+        {
+          "path": "/responsive/earth_transparent-md@2x.webp",
+          "width": 800,
+          "descriptor": "800w"
+        },
+        {
+          "path": "/responsive/earth_transparent-lg.webp",
+          "width": 580,
+          "descriptor": "580w"
+        },
+        {
+          "path": "/responsive/earth_transparent-lg@2x.webp",
+          "width": 1160,
+          "descriptor": "1160w"
+        }
+      ]
+    },
+    "android-chrome-96x96.png": {
+      "original": "android-chrome-96x96.png",
+      "responsive": [
+        {
+          "path": "/responsive/android-chrome-96x96-sm.webp",
+          "width": 40,
+          "descriptor": "40w"
+        },
+        {
+          "path": "/responsive/android-chrome-96x96-sm@2x.webp",
+          "width": 80,
+          "descriptor": "80w"
+        }
+      ]
+    },
+    "google-play-badge.png": {
+      "original": "google-play-badge.png",
+      "responsive": [
+        {
+          "path": "/responsive/google-play-badge-sm.webp",
+          "width": 154,
+          "descriptor": "154w"
+        },
+        {
+          "path": "/responsive/google-play-badge-sm@2x.webp",
+          "width": 308,
+          "descriptor": "308w"
+        }
+      ]
+    },
+    "app-store-badge.svg": {
+      "original": "app-store-badge.svg",
+      "responsive": [
+        {
+          "path": "/responsive/app-store-badge-sm.webp",
+          "width": 154,
+          "descriptor": "154w"
+        },
+        {
+          "path": "/responsive/app-store-badge-sm@2x.webp",
+          "width": 308,
+          "descriptor": "308w"
+        }
+      ]
+    }
+  }
+}
