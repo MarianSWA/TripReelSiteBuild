@@ -1,3 +1,36 @@
 # Netlify/Cloudflare Pages redirect configuration
 # This ensures all routes are handled by the SPA
+# Language-specific redirects to prevent trailing slash redirects
+/ar /ar.html 200
+/ca /ca.html 200
+/cs /cs.html 200
+/da /da.html 200
+/de /de.html 200
+/el /el.html 200
+/en /en.html 200
+/es /es.html 200
+/fi /fi.html 200
+/fr /fr.html 200
+/he /he.html 200
+/hi /hi.html 200
+/hr /hr.html 200
+/hu /hu.html 200
+/id /id.html 200
+/it /it.html 200
+/ja /ja.html 200
+/ko /ko.html 200
+/ms /ms.html 200
+/nl /nl.html 200
+/no /no.html 200
+/pl /pl.html 200
+/pt /pt.html 200
+/ro /ro.html 200
+/ru /ru.html 200
+/sk /sk.html 200
+/sv /sv.html 200
+/th /th.html 200
+/tr /tr.html 200
+/uk /uk.html 200
+/vi /vi.html 200
+/zh /zh.html 200
 /*    /index.html   200
