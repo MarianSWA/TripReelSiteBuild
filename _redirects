@@ -1,4 +1,8 @@
 # Netlify/Cloudflare Pages redirect configuration
+# Static files — must come before the catch-all
+/sitemap.xml   /sitemap.xml   200
+/robots.txt    /robots.txt    200
+
 # This ensures all routes are handled by the SPA
 # Language-specific redirects to prevent trailing slash redirects
 /ar /ar.html 200
